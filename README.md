@@ -1,2 +1,2 @@
 # Initiation à Git et GitHub
-repo de test
+site internet de présentation
