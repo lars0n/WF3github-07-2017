@@ -1,0 +1,28 @@
+/*
+    reset
+*/
+
+    *{
+        margin: 0;
+        padding: 0;
+
+        -web-kit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    html{
+        /* 16.5 x 62.5 / 100 = 10 */
+        font-size: 62.5%; /* => 1rem = 10px */
+    }
+
+    body{
+        font-size: 1.5rem;
+    }
+
+    h1{
+        font-size: 3rem;
+    }
+
+    h1 span{
+        font-size: .5em;
+    }
